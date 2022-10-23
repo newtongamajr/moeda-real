@@ -6,7 +6,7 @@ Mask field for brazilian currency
 
 Run this command into your nova project:
 
-`composer require stonkeep/moeda-real`
+`composer require newtongamajr/moeda-real`
 
 ### Add it to your Nova Resource:
 
