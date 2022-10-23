@@ -1,5 +1,5 @@
 {
-    "name": "stonkeep/moeda-real",
+    "name": "newtongamajr/moeda-real",
     "description": "A Laravel Nova field.",
     "keywords": [
         "laravel",
@@ -11,13 +11,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Stonkeep\\MoedaReal\\": "src/"
+            "Galileo\\MoedaReal\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Stonkeep\\MoedaReal\\FieldServiceProvider"
+                "Galileo\\MoedaReal\\FieldServiceProvider"
             ]
         }
     },
