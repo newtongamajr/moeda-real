@@ -1,6 +1,6 @@
 <?php
 
-namespace Stonkeep\MoedaReal;
+namespace Galileo\MoedaReal;
 
 use Laravel\Nova\Fields\Field;
 
